@@ -4,7 +4,7 @@
   "name": "FontForge",
   "description": "Create and edit outline and bitmap fonts.",
   "version": "20230101",
-  "image": "ghcr.io/containerpak/fontforge@sha256:0c011bf09b26b12c2963a004bbcec08006ecc4124fef18e5315541abfbcd2f24",
+  "image": "ghcr.io/containerpak/fontforge@sha256:f1d67b90294b6ace92ac9b699df621adf4cf03f395bba006c02fcbe4ee00b589",
   "binaries": [
     "/usr/bin/fontforge",
     "/usr/bin/fontimage",
